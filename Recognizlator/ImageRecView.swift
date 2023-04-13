@@ -59,7 +59,7 @@ struct ImageRecView: View {
             
             VStack{
                
-                Text("Selecte Language:")
+                Text("Select Language:")
                     .font(Font.custom("SF Pro", size: 22))
                     .padding(.trailing,150)
                     .accessibilityLabel(Text("Select language"))
